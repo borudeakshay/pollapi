@@ -1,0 +1,19 @@
+{
+  "name": "pollapi",
+  "version": "1.0.0",
+  "description": "- expres\r - mongoose\r - ejs\r - @hapi/joi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borudeakshay/pollapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borudeakshay/pollapi/issues"
+  },
+  "homepage": "https://github.com/borudeakshay/pollapi#readme"
+}
